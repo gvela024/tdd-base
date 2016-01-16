@@ -13,5 +13,4 @@ cd cpputest
 ./autgen.sh
 ./configure
 make
-
-
+```
