@@ -9,6 +9,8 @@ ifndef SILENCE
 	SILENCE = @
 endif
 
+CPPUTEST_WARNINGFLAGS += -Wno-c++14-compat #no warning for the -Werror=c++14-compat#
+
 #--- Inputs ----#
 COMPONENT_NAME = tdd-exercises
 CPPUTEST_HOME = cpputest
