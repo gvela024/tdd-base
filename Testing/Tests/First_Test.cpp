@@ -33,5 +33,5 @@ TEST_GROUP(ExampleTest)
 TEST(ExampleTest, Fail)
 {
   //add some stuff to make this pass
-	FAIL("Congrats! You failed your first test, to make me pass head to /Testing/Tests/First_Test.cpp");
+	FAIL("Congrats! You failed your first test. To make me, pass head to /Testing/Tests/First_Test.cpp");
 }

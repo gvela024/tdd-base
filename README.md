@@ -8,9 +8,4 @@ You may need the following installed:
 - `libtool`
 
 ##Building CppUTest
-```
-cd cpputest
-./autgen.sh
-./configure
-make
-```
+`make` should build the CppUTest libraries for your specific platform. 
