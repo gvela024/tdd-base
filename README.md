@@ -1,6 +1,6 @@
-# tdd-Exercises
+# tdd-base
 
-This is just a repo that uses CppUTest to practice TDD in C. First thing you have to do is build CppUTest.
+This is just a repo that uses CppUTest to practice TDD in C.
 
 ## Dependencies
 You may need the following installed:
@@ -8,4 +8,4 @@ You may need the following installed:
 - `libtool`
 
 ##Building CppUTest
-`make` should build the CppUTest libraries for your specific platform. 
+`make` should build the CppUTest libraries for your specific platform.
