@@ -7,5 +7,5 @@ You may need the following installed:
 - `autoconf`
 - `libtool`
 
-##Building CppUTest
+## Building CppUTest
 `make` should build the CppUTest libraries for your specific platform.
