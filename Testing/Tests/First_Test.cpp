@@ -33,5 +33,5 @@ TEST_GROUP(ExampleTest)
 TEST(ExampleTest, Fail)
 {
   //add some stuff to make this pass
-  FAIL("I don't want to fail!");
+  FAIL("Fail messages");
 }
